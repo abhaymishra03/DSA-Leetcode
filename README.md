@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
