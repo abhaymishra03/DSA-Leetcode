@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
