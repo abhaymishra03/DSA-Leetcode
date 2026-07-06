@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0848-shifting-letters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0848-shifting-letters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
