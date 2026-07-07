@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0848-shifting-letters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0848-shifting-letters) |
+| [0941-valid-mountain-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0941-valid-mountain-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
