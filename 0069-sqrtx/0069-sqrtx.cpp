@@ -1,6 +1,15 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        return int(pow(x,0.5));
+
+        long long ans = 0;
+
+        for(long long i = 0 ; i*i <= x ;i++ ) {
+ans = i;
+            
+
+        }
+        return (int)ans;
+        
     }
 };
