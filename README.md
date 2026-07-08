@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0848-shifting-letters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1844-replace-all-digits-with-characters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1844-replace-all-digits-with-characters) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3136-valid-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3136-valid-word) |
@@ -118,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String Matching
 |  |
 | ------- |
