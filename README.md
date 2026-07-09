@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0848-shifting-letters) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Prefix Sum
 |  |
