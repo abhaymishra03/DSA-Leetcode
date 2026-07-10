@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1025-divisor-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -300,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
