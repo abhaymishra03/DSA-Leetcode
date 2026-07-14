@@ -37,7 +37,6 @@ public:
                 
                 Node* currNode = q.front();
                 q.pop();
-                currNode->next = NULL;
 
                 if(prev!=NULL)
                 prev->next = currNode;
