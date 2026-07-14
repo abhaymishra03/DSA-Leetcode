@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2938-separate-black-and-white-balls](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3136-valid-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3340-check-balanced-string) |
 ## Math
@@ -133,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2938-separate-black-and-white-balls](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2938-separate-black-and-white-balls](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
