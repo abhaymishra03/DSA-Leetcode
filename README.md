@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2938-separate-black-and-white-balls) |
