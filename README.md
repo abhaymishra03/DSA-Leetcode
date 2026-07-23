@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0682-baseball-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0848-shifting-letters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0848-shifting-letters) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0682-baseball-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String Matching
 |  |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
