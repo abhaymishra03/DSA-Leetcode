@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0848-shifting-letters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0848-shifting-letters) |
 | [0941-valid-mountain-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
