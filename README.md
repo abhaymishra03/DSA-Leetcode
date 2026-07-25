@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1025-divisor-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
