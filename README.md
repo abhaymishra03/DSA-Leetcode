@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3136-valid-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3340-check-balanced-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
