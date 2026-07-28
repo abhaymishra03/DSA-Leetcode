@@ -1,32 +1,15 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        
-        deque<int>dq;
-        
+        if (nums.empty())
+            return 0;
 
-        for(int val : nums) {
+        int i = 1;
+        for (int j = 1; j < nums.size(); j++) {
 
-
-            if(dq.size() > 0 && dq.back() == val)
-            continue;
-
-            dq.push_back(val);
-
-
-
+            if (nums[j] != nums[i - 1])
+                nums[i++] = nums[j];
         }
-
-        int i = 0;
-
-        while(!dq.empty()){
-        nums[i++]=dq.front();
-        dq.pop_front();}
-
-
         return i;
-
-
-
     }
 };
