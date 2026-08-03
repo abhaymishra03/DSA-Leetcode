@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0848-shifting-letters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0848-shifting-letters) |
+| [0905-sort-array-by-parity](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0994-rotting-oranges) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
