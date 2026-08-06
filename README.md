@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0941-valid-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0986-interval-list-intersections) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
