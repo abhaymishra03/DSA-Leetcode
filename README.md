@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3731-find-missing-elements) |
