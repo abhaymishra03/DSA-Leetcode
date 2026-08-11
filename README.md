@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Quicksort
 |  |
 | ------- |
