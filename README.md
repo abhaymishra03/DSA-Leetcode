@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
