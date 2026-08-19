@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1598-crawler-log-folder) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1695-maximum-erasure-value](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
+| [1695-maximum-erasure-value](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Quicksort
