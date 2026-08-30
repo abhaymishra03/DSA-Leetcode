@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1768-merge-strings-alternately](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1844-replace-all-digits-with-characters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0986-interval-list-intersections) |
+| [1768-merge-strings-alternately](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
