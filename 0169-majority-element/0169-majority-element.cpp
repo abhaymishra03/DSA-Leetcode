@@ -2,26 +2,20 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
 
-
         int freq = 0;
-
         int ans = nums[0];
 
+        for (int val : nums) {
 
-        for(int val : nums ) {
+            if (freq == 0)
+                ans = val;
 
-            if(freq == 0)
-            ans = val;
-
-            if(ans == val) {
+            if (ans == val) {
                 freq++;
-            } else 
-            freq--;
-
+            } else
+                freq--;
         }
 
-
         return ans;
-        
     }
 };
