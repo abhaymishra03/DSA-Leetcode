@@ -715,4 +715,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
