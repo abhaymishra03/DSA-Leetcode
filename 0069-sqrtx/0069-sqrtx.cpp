@@ -1,15 +1,26 @@
 class Solution {
 public:
-    int mySqrt(int x) {
-
-        long long ans = 0;
-
-        for(long long i = 0 ; i*i <= x ;i++ ) {
-ans = i;
-            
-
+    int mySqrt(int x) { 
+    
+    if(x==1 || x==0)return x;
+    
+    long long st = 0, end = x/2;
+    
+    int ans;
+    while (st<=end) {
+        
+        long long mid = st + (end-st)/2;
+        
+        if(mid*mid<=x){
+            ans =mid;
+            st=mid+1;
         }
-        return (int)ans;
+        else {
+            end=mid-1;
+        }
+    }
+    
+    return ans;
         
     }
 };
