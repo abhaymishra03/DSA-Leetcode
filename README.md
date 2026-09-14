@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0826-most-profit-assigning-work](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0848-shifting-letters](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0848-shifting-letters) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0826-most-profit-assigning-work](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -747,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
