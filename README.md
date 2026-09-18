@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0826-most-profit-assigning-work](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0876-middle-of-the-linked-list](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
