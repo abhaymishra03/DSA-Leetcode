@@ -6,7 +6,7 @@ public:
         int count = 0;
 
 
-        set<char>s(allowed.begin(),allowed.end());
+        unordered_set<char>s(allowed.begin(),allowed.end());
 
 
         for(string str : words) {
