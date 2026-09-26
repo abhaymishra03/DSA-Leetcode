@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1544-make-the-string-great) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0901-online-stock-span](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0901-online-stock-span) |
 ## Iterator
 |  |
 | ------- |
@@ -845,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
