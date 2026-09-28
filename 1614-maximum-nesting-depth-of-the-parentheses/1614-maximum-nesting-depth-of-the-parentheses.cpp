@@ -2,24 +2,19 @@ class Solution {
 public:
     int maxDepth(string str) {
 
-        int maxDepth = 0;
+        int maxDepth = 0;int depth = 0;
 
 
-        stack<char>s;
+        for (char ch : str) {
 
 
-        for(char ch : str) {
+            maxDepth = max(maxDepth, depth);
 
-            int n =s.size();
+            if (ch == '(')
+                depth++;
 
-            maxDepth=max(maxDepth,n);
-
-
-            if(ch == '(')
-            s.push(ch);
-
-            if(ch == ')')
-            s.pop();
+            if (ch == ')')
+                depth--;
         }
         return maxDepth;
     }
