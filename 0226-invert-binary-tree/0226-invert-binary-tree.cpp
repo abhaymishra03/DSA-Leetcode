@@ -11,22 +11,27 @@
  */
 class Solution {
 public:
-    TreeNode* invertTree(TreeNode* root) {
-
-        if(root == NULL)return NULL;
+    TreeNode* invertTree(TreeNode* head) {
 
 
-        invertTree(root->left);
-        invertTree(root->right);
 
-        
+        if(!head)return NULL;
 
-        TreeNode* temp = root->left;
-        root->left = root->right;
-        root->right = temp;
-        
 
-        return root;
+
+
+
+        TreeNode* left = invertTree(head->left);
+        TreeNode* right = invertTree(head->right);
+
+         TreeNode* temp = head->left;
+        head->left = head->right;
+        head->right = temp;
+
+
+
+
+        return head;
         
     }
 };
