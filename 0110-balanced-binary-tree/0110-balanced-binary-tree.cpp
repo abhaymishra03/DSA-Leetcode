@@ -11,33 +11,25 @@
  */
 class Solution {
 public:
-        pair<bool,int>helper(TreeNode* root) {
-            //Base Case
-            if ( root == NULL) 
-            return {true, 0};
-
-
-            pair<bool,int> leftHt =  helper(root -> left);
-            pair<bool,int> rightHt =  helper(root -> right);
-            
-            
-
-            return {abs(leftHt.second - rightHt.second) <= 1
-            && leftHt.first
-            && rightHt.first  , max(leftHt.second , rightHt.second)+1};
-
-
-        }
 
 
 
+    pair<int,bool> dfs(TreeNode* root) {
+
+        if(root == NULL)return {0,true};
+
+
+        pair<int,bool>left = dfs(root->left);
+        pair<int,bool>right = dfs(root->right);
+
+
+
+        return {max(left.first,right.first)+1,(abs(left.first-right.first)<=1) && right.second && left.second};
+    }
     bool isBalanced(TreeNode* root) {
 
 
-        
-
-
-        return helper(root).first;
+        return dfs(root).second;
         
     }
 };
