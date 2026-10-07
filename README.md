@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1609-even-odd-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1609-even-odd-tree) |
+| [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Memoization
 |  |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
