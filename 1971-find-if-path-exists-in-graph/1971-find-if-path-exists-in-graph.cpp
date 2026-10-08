@@ -1,37 +1,55 @@
 class Solution {
 public:
 
-    void dfs(int u , vector<vector<int>>& adj , vector<bool>& vis) {
 
-        vis[u]=true;
+    bool dfs(unordered_map<int,vector<int>>&mp,vector<bool>& vis,int source ,int destination) {
 
-        for(int v : adj[u]) {
+        if(source == destination)
+        return true;
 
-            if(!vis[v])
-            dfs(v,adj,vis);
+        if(vis[source])
+        return false;
+
+        vis[source]=true;
+
+
+        //explore
+
+
+        for(auto & it : mp[source]) {
+
+            if(dfs(mp,vis,it,destination))
+            return true;
         }
 
+        return false;
     }
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
 
 
-        vector<vector<int>>adj(n);
+        unordered_map<int,vector<int>>mp;
 
-        for(int i = 0 ; i < edges.size(); i++) {
 
-            adj[edges[i][0]].push_back(edges[i][1]);
-            adj[edges[i][1]].push_back(edges[i][0]);
 
-            
+        for(auto& edge : edges) {
+
+            int u = edge[0]; 
+            int v = edge[1]; 
+
+            mp[u].push_back(v);
+            mp[v].push_back(u);
+
+
         }
+
 
 
         vector<bool>vis(n,false);
 
 
-        dfs(source,adj,vis);
+        return dfs(mp,vis,source,destination);
 
 
-        return vis[destination];
+        
     }
 };
