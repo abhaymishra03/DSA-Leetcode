@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0797-all-paths-from-source-to-target](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0797-all-paths-from-source-to-target](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -935,4 +938,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
