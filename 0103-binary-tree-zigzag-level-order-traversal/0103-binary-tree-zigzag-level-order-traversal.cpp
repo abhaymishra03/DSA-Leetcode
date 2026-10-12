@@ -13,84 +13,63 @@ class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
 
-        if(root == NULL )
-        return {};
+
+        if(root == NULL)return {};
+
+
+        deque<TreeNode*>q;
+
+        q.push_back(root);
 
         vector<vector<int>>ans;
 
-        deque<TreeNode*>q;
-        q.push_back(root);
 
         bool rev = false;
 
 
         while(!q.empty()) {
 
-            int currSz = q.size();
-
-            vector<int>curr= {};
-
-            for(int i = 0 ; i < currSz ; i++ ) {
+            int sz = q.size();
+            vector<int>level;
 
 
-                if(rev){
-                    // reverse case 
+            while(sz){
+                if(!rev) {
+                // normalcase 
+
+                TreeNode* curr = q.front();
+                q.pop_front();
+
+                level.push_back(curr->val);
+
+                if(curr->left)
+                q.push_back(curr->left);
+                if(curr->right)
+                q.push_back(curr->right);
+            }else{
 
 
+                TreeNode* curr = q.back();
+                q.pop_back();
 
+                level.push_back(curr->val);
 
-                
-                    TreeNode* currNode = q.back();
-                    q.pop_back();
-                    curr.push_back(currNode->val);
-
-                    if(currNode->right)
-                    q.push_front(currNode->right);
-                    if(currNode->left)
-                    q.push_front(currNode->left);
-                    
-                    
-                    }
-
-                else {
-                    // normal case 
-                    TreeNode* currNode = q.front();
-                    q.pop_front();
-                    curr.push_back(currNode->val);
-
-                    if(currNode->left)
-                    q.push_back(currNode->left);
-                    if(currNode->right)
-                    q.push_back(currNode->right);
-
-
-                }
-
-
-                
-
-               
+                if(curr->right)
+                q.push_front(curr->right);
+                if(curr->left)
+                q.push_front(curr->left);
 
 
 
             }
 
-            ans.push_back(curr);
-
-            rev = !rev;
-
-          
-                
+            sz--;
             }
 
 
-
-
-        
-
-
+            ans.push_back(level);
+            rev=!rev;
+        }
         return ans;
-
-        
     }
 };
