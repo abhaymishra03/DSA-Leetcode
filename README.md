@@ -876,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bucket Sort
@@ -950,4 +951,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
