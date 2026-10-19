@@ -1,59 +1,26 @@
 class Solution {
-private:
-vector<int> prevGreater(vector<int>& arr, int n) {
-    vector<int> ans(n);
-    int max=arr[0];
+public:
+    int trap(vector<int>& height) {
 
-    for(int i = 0; i < n; i++) {
-        if(arr[i]>=max){
-            ans[i]=-1;
-            max=arr[i];
-            
-        }
-        else
-        ans[i]=max;
-    }
-    return ans;
-}
-vector<int> nextGreater(vector<int>& arr, int n) {
-    
-  vector<int> ans(n);
-    int max=arr[n-1];
-
-    for(int i = n-1; i >= 0; i--) {
-        if(arr[i]>=max){
-            ans[i]=-1;
-            max=arr[i];
-            
-        }
-        else
-        ans[i]=max;
-    }
-    return ans;
-
-   
-}
-
-
-
-
-
- public : int trap(vector<int>& height) {
-        int totalWater = 0;
         int n = height.size();
+        vector<int> leftMax(n);
+        vector<int> rightMax(n);
+        leftMax[0] = height[0];
+        for (int i = 1; i < n; i++) {
+            leftMax[i] = max(leftMax[i - 1], height[i]);
+        }
+        rightMax[n - 1] = height[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            rightMax[i] = max(rightMax[i + 1], height[i]);
+        }
 
-        vector<int> prev(n);
-        prev = prevGreater(height, n);
-
-        vector<int> next(n);
-        next = nextGreater(height, n);
+        int totalWater = 0;
 
         for (int i = 0; i < n; i++) {
 
-            if (prev[i] == -1 || next[i] == -1)
-                continue;
-
-            totalWater += (min(prev[i], next[i]) - height[i]);
+            int h = min(leftMax[i], rightMax[i]);
+            int currWater = h - height[i];
+            totalWater += currWater;
         }
 
         return totalWater;
