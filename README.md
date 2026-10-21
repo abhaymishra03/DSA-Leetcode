@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0997-find-the-town-judge) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0342-power-of-four) |
+| [0980-unique-paths-iii](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Brainteaser
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0079-word-search) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -965,4 +969,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
