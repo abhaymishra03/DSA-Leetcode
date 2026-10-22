@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
