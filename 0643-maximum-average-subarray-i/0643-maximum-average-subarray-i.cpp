@@ -5,29 +5,26 @@ public:
         double currSum = 0;
 
         //first window 
+        for(int i = 0 ; i < k ; i++) {
 
-        for(int i = 0 ; i < k ; i++){
             currSum+=nums[i];
         }
 
-       double maxAvg = currSum/k;
 
-        //sliding the window
+        double maxAvg = currSum/k;
 
         for(int i = k ; i < nums.size(); i++) {
 
-            //add next element 
-
+            // remove last element
+            currSum-=nums[i-k];
+            // adding new element
             currSum+=nums[i];
 
-            // remove next element
-
-            currSum-=nums[i-k];
-
-            maxAvg = max(maxAvg, currSum/k);
-
+            maxAvg = max(maxAvg,currSum/k);
 
         }
+
+    
         return maxAvg;
     }
 };
