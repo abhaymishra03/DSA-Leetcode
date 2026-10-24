@@ -1,39 +1,47 @@
 class Solution {
 public:
+
+    bool isVowel(char ch) {
+
+        int num = ch -'a';
+
+
+        if(num == 0 || num == 4 || num == 8 || num == 14 || num == 20 )
+        return true;
+
+
+        return false;
+    }
     int maxVowels(string s, int k) {
 
-        // first window
 
-        int vowels = 0;
+        int currVow = 0;
 
-        for (int i = 0; i < k; i++) {
 
-            char ch = s[i];
-           if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-                vowels++;
-            }
+        for(int i = 0 ; i < k; i++) {
+
+            if(isVowel(s[i]))
+            currVow++;
+
         }
 
-        int maxVowels = vowels;
-        for (int i = k; i < s.size(); i++) {
+        int maxVow = currVow;
 
-            // add new element
-            char ch = s[i];
-            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-                vowels++;
-            }
 
-            // remove last one
 
-            char chr = s[i - k];
+        for(int i = k ; i < s.size(); i++) {
 
-            if (chr == 'a' || chr == 'e' || chr == 'i' || chr == 'o' || chr == 'u') {
-                vowels--;
-            }
+            if(isVowel(s[i-k]))
+            currVow--;
+            if(isVowel(s[i]))
+            currVow++;
 
-            maxVowels = max(maxVowels, vowels);
+
+
+            maxVow = max(maxVow , currVow);
+
+            
         }
-
-        return maxVowels;
+        return maxVow;
     }
 };
