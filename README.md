@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0657-robot-return-to-origin](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0709-to-lower-case) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhayletscode/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
