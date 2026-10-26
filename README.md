@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhayletscode/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1609-even-odd-tree) |
 | [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhayletscode/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -776,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1905-count-sub-islands](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/1905-count-sub-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
