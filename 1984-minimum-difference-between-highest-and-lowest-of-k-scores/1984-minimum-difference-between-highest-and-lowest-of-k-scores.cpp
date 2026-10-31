@@ -4,21 +4,20 @@ public:
 
         sort(nums.begin(), nums.end());
 
-        int minEl;
-        int maxEl;
-        minEl = nums[0];
-        maxEl = nums[k - 1];
+        int minEl = nums[0];
+        int maxEl = nums[k - 1];
+        int minimizedScore = maxEl - minEl;
 
-        int minDiff = maxEl - minEl;
+        // first window
 
         for (int i = k; i < nums.size(); i++) {
 
-            // add first element
-            maxEl = nums[i];
             minEl = nums[i - k + 1];
+            maxEl = nums[i];
 
-            minDiff = min(minDiff, maxEl - minEl);
+            minimizedScore = min(minimizedScore, maxEl - minEl);
         }
-        return minDiff;
+
+        return minimizedScore;
     }
 };
