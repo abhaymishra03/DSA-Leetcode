@@ -1,39 +1,24 @@
 class Solution {
 public:
     vector<int> getAverages(vector<int>& nums, int k) {
-
-        if(k == 0)return nums;
-        
         int n = nums.size();
-        vector<int>ans(n,-1);
-        if(n <=k || n<(2*k )+1  )return ans;
+        vector<int> ans(n, -1);
 
+        if (n < 2 * k + 1) return ans;
 
-
-        long long sum = 0 ;
-
-        for(int i = 0 ; i < (2*k )+1 ; i++){
-            sum+=nums[i];
+        long long windowSum = 0;
+        for (int i = 0; i <= 2 * k; i++) {
+            windowSum += nums[i];
         }
 
-        int j =k , l =0 ;
+        for (int i = k; i < n - k; i++) {
+            ans[i] = windowSum / (2 * k + 1);
 
-        for(int i = (2*k) +1; i < n ; i++) {
-
-            ans[j++]=sum/((2*k) +1);
-
-            // add new el
-
-            sum+=nums[i];
-
-            // remove el
-
-            sum-=nums[l++];
+            if (i + k + 1 < n) {
+                windowSum -= nums[i - k];
+                windowSum += nums[i + k + 1];
+            }
         }
-
-                    ans[j]=sum/((2*k) +1);
-
-
         return ans;
     }
 };
