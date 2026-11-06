@@ -3,41 +3,34 @@ public:
     bool checkInclusion(string s1, string s2) {
 
         int k = s1.size();
-        if(s2.size()<k)return false;
 
-        vector<int>freq1(26,0);
-        vector<int>freq2(26,0);
 
-        for(char ch : s1) {
-            freq1[ch-'a']++;
-        }
+        if(k > s2.size())return false;
+
+        vector<int> f1(26, 0);
+        vector<int> f2(26, 0);
+
+        for (char ch : s1)
+            f1[ch - 'a']++;
 
         // first window
 
-        for(int i = 0 ; i < k ; i++) {
+        for (int i = 0; i < k; i++) {
 
-            freq2[s2[i]-'a']++;
-
+            f2[s2[i] - 'a']++;
         }
 
-        if(freq1==freq2)return true;
+            if (f1 == f2)
+                return true;
+        for (int i = k; i < s2.size(); i++) {
 
+            f2[s2[i] - 'a']++;
+            f2[s2[i - k] - 'a']--;
 
-        //slide the window 
-
-        for(int i = k ; i < s2.size();i++) {
-            
-
-            //add 
-            freq2[s2[i]-'a']++;
-
-            //remove
-            freq2[s2[i-k]-'a']--;
-
-
-            if(freq1==freq2)return true;
-
+            if (f1 == f2)
+                return true;
         }
+
         return false;
     }
 };
