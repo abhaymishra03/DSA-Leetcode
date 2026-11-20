@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/abhayletscode/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhaymishra03/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
