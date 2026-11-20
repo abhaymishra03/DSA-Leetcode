@@ -10,11 +10,17 @@ public:
         for(int i = 1; i < nums.size(); i++) {
 
 
-            if(nums[i-1] > nums[i] )
+            if(nums[i-1] > nums[i]){
             yes=false;
-            if(nums[i-1] < nums[i] )
+            
+            if(!no)
+            break;
+            }
+            if(nums[i-1] < nums[i] ){
             no=false;
-
+            if(!yes)
+            break;
+}
         }
 
 
