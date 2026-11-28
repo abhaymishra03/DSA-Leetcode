@@ -2,8 +2,8 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
 
-        unordered_map<int,int>mp;
 
+        unordered_map<int,int>mp;
         mp[0]=1;
 
 
@@ -16,15 +16,12 @@ public:
             currSum+=nums[i];
 
 
-            if(mp[currSum -k]) {
+            if(mp[currSum-k]) {
+
                 count+=mp[currSum-k];
             }
-
             mp[currSum]++;
         }
-
-
         return count;
-        
     }
 };
